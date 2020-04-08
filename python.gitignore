@@ -144,3 +144,6 @@ static
 
 # IDE settings
 .idea/
+
+# Rasa conversational AI framework
+models/
